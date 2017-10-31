@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4044835755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bddb515a7fe7510baa1f2b900e82d5ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/UIs/login_quan.png
+- Assets/Game/UIs/BG.jpg
+- Assets/Game/UIs/gamelogin_btn_youke.png
+Dependencies: []

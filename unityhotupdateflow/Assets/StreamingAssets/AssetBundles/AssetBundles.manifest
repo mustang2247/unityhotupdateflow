@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 154757022
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test_scene.u3d
+      Dependencies:
+        Dependency_0: uis_atlas.u3d
+    Info_1:
+      Name: uis_atlas.u3d
+      Dependencies: {}
