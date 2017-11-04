@@ -32,3 +32,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+unityhotupdateflow/Library
+unityhotupdateflow/obj
+unityhotupdateflow/Temp
+unityhotupdateflow/etc
+unityhotupdateflow/UnityPackageManager
+
+
+
