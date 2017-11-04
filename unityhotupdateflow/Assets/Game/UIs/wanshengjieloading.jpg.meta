@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0826ba8cdf9774b7ab2f0a112c1a8b47
-timeCreated: 1509435211
+guid: fc4c24ff180a34e8ebb9e9281fc9457d
+timeCreated: 1509721423
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -108,5 +108,5 @@ TextureImporter:
     physicsShape: []
   spritePackingTag: bgs
   userData: 
-  assetBundleName: uis_atlas.u3d
+  assetBundleName: 
   assetBundleVariant: 
