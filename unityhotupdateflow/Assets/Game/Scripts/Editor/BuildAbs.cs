@@ -43,7 +43,7 @@ public class BuildAbs : MonoBehaviour
         AssetDatabase.Refresh();
 
 
-        GetAllFilesMD5(AssetBundlesPath);
+//        GetAllFilesMD5(AssetBundlesPath);
         
         //压缩文件
         

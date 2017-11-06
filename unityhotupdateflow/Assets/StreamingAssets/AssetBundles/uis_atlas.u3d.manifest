@@ -1,20 +1,76 @@
 ManifestFileVersion: 0
-CRC: 4044835755
+CRC: 3852022997
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bddb515a7fe7510baa1f2b900e82d5ef
+    Hash: 35397e6e67a5b7afb6010eb106d57ef2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 21f0dc8ebad690f009368069428e0a1a
+    Hash: e4c185f861e6b3e245b78f06e2cdfe37
 HashAppended: 0
 ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Game/UIs/Hall/motianlun.png
+- Assets/Game/UIs/Hall/kuaisukaishi_atlas_kuaisukaishi.mat
+- Assets/Game/UIs/Hall/liuguangdonghua_atlas_liuguangdonghua.mat
+- Assets/Game/UIs/Hall/fbc_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/jjc.png
+- Assets/Game/UIs/Hall/yuchang_json.json
+- Assets/Game/UIs/Hall/fbc_atlas.atlas.txt
+- Assets/Game/UIs/Hall/motianlun_atlas.atlas.txt
+- Assets/Game/UIs/Hall/liuguangdonghua.png
+- Assets/Game/UIs/Hall/liuguangdonghua_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/yuchang_atlas_Atlas.asset
 - Assets/Game/UIs/login_quan.png
+- Assets/Game/UIs/Hall/liuguangdonghua_atlas.atlas.txt
 - Assets/Game/UIs/BG.jpg
+- Assets/Game/UIs/Hall/zhongfabai_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/jjc_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/fbc_atlas_fbc.mat
+- Assets/Game/UIs/Hall/yuchang_atlas.atlas.txt
+- Assets/Game/UIs/Hall/motianlun_atlas_motianlun.mat
+- Assets/Game/UIs/Hall/jjc_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/jjc_json.json
+- Assets/Game/UIs/Hall/zhongfabai_json.json
+- Assets/Game/UIs/Hall/yuchang.png
+- Assets/Game/UIs/Hall/zhongfabai_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/kuaisukaishi.png
+- Assets/Game/UIs/Hall/jjc_atlas.atlas.txt
+- Assets/Game/UIs/Hall/jjc_atlas_jjc.mat
+- Assets/Game/UIs/Hall/motianlun_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/zhongfabai_atlas_zhongfabai.mat
+- Assets/Game/UIs/Hall/motianlun_json.json
+- Assets/Game/UIs/Hall/liuguangdonghua_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/yuchang_atlas_yuchang.mat
+- Assets/Game/UIs/login_game_logo.png
 - Assets/Game/UIs/gamelogin_btn_youke.png
+- Assets/Game/UIs/Hall/kuaisukaishi_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/kuaisukaishi_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/zhongfabai.png
+- Assets/Game/UIs/Hall/motianlun_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/fbc_atlas_Atlas.asset
+- Assets/Game/UIs/Hall/fbc.png
+- Assets/Game/UIs/Hall/kuaisukaishi_json.json
+- Assets/Game/UIs/Hall/liuguangdonghua_json.json
+- Assets/Game/UIs/Hall/zhongfabai_atlas.atlas.txt
+- Assets/Game/UIs/Hall/yuchang_json_SkeletonData.asset
+- Assets/Game/UIs/Hall/fbc_json.json
+- Assets/Game/UIs/Hall/kuaisukaishi_atlas.atlas.txt
+- Assets/Game/UIs/wanshengjieloading.jpg
 Dependencies: []

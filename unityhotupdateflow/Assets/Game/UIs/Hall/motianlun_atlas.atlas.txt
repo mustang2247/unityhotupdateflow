@@ -1,0 +1,41 @@
+
+motianlun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diceng
+  rotate: false
+  xy: 652, 236
+  size: 269, 211
+  orig: 269, 211
+  offset: 0, 0
+  index: -1
+dw
+  rotate: false
+  xy: 2, 111
+  size: 350, 336
+  orig: 350, 336
+  offset: 0, 0
+  index: -1
+motianlun
+  rotate: false
+  xy: 652, 182
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+zp
+  rotate: false
+  xy: 354, 154
+  size: 296, 293
+  orig: 296, 293
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 2, 2
+  size: 107, 196
+  orig: 107, 196
+  offset: 0, 0
+  index: -1

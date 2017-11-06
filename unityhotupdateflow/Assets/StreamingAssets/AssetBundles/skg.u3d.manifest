@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 716581999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28723d222ac56404561bc1270e85f2b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Examples/Getting Started/6 SkeletonGraphic.unity
+Dependencies: []

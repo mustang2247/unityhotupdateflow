@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3179769567
+CRC: 3831217902
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f4650fddee461b7ab2287d0ead5870fc
+    Hash: b7f41d637046ee37112d21d65be95063
   TypeTreeHash:
     serializedVersion: 2
     Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
@@ -12,4 +12,4 @@ ClassTypes: []
 Assets:
 - Assets/Game/Scenes/test_scene.unity
 Dependencies:
-- /Volumes/MUS/JOB/src/github.com/unityhotupdateflow/unityhotupdateflow/Assets/StreamingAssets/AssetBundles/uis_atlas.u3d
+- E:/job/github.com/unityhotupdateflow/unityhotupdateflow/Assets/StreamingAssets/AssetBundles/uis_atlas.u3d

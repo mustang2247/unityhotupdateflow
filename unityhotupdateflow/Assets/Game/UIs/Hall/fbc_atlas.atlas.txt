@@ -1,0 +1,62 @@
+
+fbc.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fubenchang
+  rotate: false
+  xy: 827, 184
+  size: 131, 51
+  orig: 131, 51
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 827, 144
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 960, 171
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 555, 49
+  size: 186, 199
+  orig: 186, 199
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 317, 44
+  size: 236, 191
+  orig: 236, 191
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 756, 72
+  size: 69, 163
+  orig: 69, 163
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+底层
+  rotate: false
+  xy: 2, 11
+  size: 313, 224
+  orig: 313, 224
+  offset: 0, 0
+  index: -1

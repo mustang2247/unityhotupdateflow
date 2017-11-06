@@ -1,0 +1,153 @@
+
+kuaisukaishi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 2
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+saoguang0001
+  rotate: false
+  xy: 2, 771
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0002
+  rotate: false
+  xy: 2, 644
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0003
+  rotate: false
+  xy: 399, 771
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0004
+  rotate: false
+  xy: 2, 517
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0005
+  rotate: false
+  xy: 399, 644
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0006
+  rotate: false
+  xy: 796, 771
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0007
+  rotate: false
+  xy: 2, 390
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0008
+  rotate: false
+  xy: 399, 517
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0009
+  rotate: false
+  xy: 796, 644
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0010
+  rotate: false
+  xy: 1193, 771
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0011
+  rotate: false
+  xy: 2, 263
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0012
+  rotate: false
+  xy: 399, 390
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0013
+  rotate: false
+  xy: 796, 517
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0014
+  rotate: false
+  xy: 1193, 644
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0015
+  rotate: false
+  xy: 1590, 771
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0016
+  rotate: false
+  xy: 2, 136
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0017
+  rotate: false
+  xy: 399, 263
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0018
+  rotate: false
+  xy: 796, 390
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0019
+  rotate: false
+  xy: 1193, 517
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1
+saoguang0020
+  rotate: false
+  xy: 1590, 644
+  size: 395, 125
+  orig: 395, 125
+  offset: 0, 0
+  index: -1

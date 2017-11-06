@@ -1,0 +1,111 @@
+
+yuchang.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+1.1
+  rotate: true
+  xy: 539, 103
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+diceng
+  rotate: false
+  xy: 2, 64
+  size: 460, 445
+  orig: 460, 445
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 950, 235
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 1593, 283
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 1510, 255
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: false
+  xy: 464, 100
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 1219, 248
+  size: 289, 261
+  orig: 289, 261
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: false
+  xy: 464, 165
+  size: 330, 344
+  orig: 330, 344
+  offset: 0, 0
+  index: -1
+shirenyu
+  rotate: false
+  xy: 1807, 352
+  size: 160, 157
+  orig: 160, 157
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 1510, 348
+  size: 295, 161
+  orig: 295, 161
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 796, 303
+  size: 421, 206
+  orig: 421, 206
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 464, 71
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+yuchang
+  rotate: true
+  xy: 1969, 354
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+zhadanyu
+  rotate: true
+  xy: 796, 154
+  size: 147, 152
+  orig: 147, 152
+  offset: 0, 0
+  index: -1

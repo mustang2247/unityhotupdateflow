@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 626968893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35907fdf26bc93d64a980120aeaf8f52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/Scenes/test_scene_spine.unity
+Dependencies:
+- E:/job/github.com/unityhotupdateflow/unityhotupdateflow/Assets/StreamingAssets/AssetBundles/uis_atlas.u3d

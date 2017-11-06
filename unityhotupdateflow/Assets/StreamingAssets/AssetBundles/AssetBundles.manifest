@@ -1,11 +1,18 @@
 ManifestFileVersion: 0
-CRC: 154757022
+CRC: 1639082679
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: uis_atlas.u3d
+      Dependencies: {}
+    Info_1:
       Name: test_scene.u3d
       Dependencies:
         Dependency_0: uis_atlas.u3d
-    Info_1:
-      Name: uis_atlas.u3d
+    Info_2:
+      Name: test_scene_spine.u3d
+      Dependencies:
+        Dependency_0: uis_atlas.u3d
+    Info_3:
+      Name: skg.u3d
       Dependencies: {}

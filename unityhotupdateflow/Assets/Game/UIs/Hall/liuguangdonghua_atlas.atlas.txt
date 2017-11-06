@@ -1,0 +1,13 @@
+
+liuguangdonghua.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoguang
+  rotate: false
+  xy: 2, 2
+  size: 368, 34
+  orig: 368, 34
+  offset: 0, 0
+  index: -1

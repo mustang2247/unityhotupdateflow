@@ -1,0 +1,41 @@
+
+zhongfabai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+batong
+  rotate: false
+  xy: 464, 61
+  size: 137, 165
+  orig: 137, 165
+  offset: 0, 0
+  index: -1
+diceng
+  rotate: false
+  xy: 2, 2
+  size: 313, 224
+  orig: 313, 224
+  offset: 0, 0
+  index: -1
+ertong
+  rotate: false
+  xy: 317, 49
+  size: 145, 177
+  orig: 145, 177
+  offset: 0, 0
+  index: -1
+xingxingdiandeng
+  rotate: false
+  xy: 603, 74
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+zhongfabai
+  rotate: false
+  xy: 753, 167
+  size: 140, 59
+  orig: 140, 59
+  offset: 0, 0
+  index: -1
